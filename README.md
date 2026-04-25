@@ -45,7 +45,21 @@ A Linux shell-based file versioning and monitoring system developed using Bash s
 - Ambreen Imtiaz
 ## 📸 Screenshots
 
-### Project Demo
-![Screenshot](images/img1.jpeg)
-![Screenshot](images/img2.jpeg)
-![Screenshot](images/img3.jpeg)
+### Rollback a File
+
+```bash
+./scripts/rollback.sh test.txt <timestamp>
+```
+
+## Authors
+
+- Haziq Afzal
+- Ruveeha Ashfaq
+- Ambreen Imtiaz
+
+
+## 📸 Screenshots
+
+![Screenshot 1](images/img1.jpeg)
+![Screenshot 2](images/img2.jpeg)
+![Screenshot 3](images/img3.jpeg)
