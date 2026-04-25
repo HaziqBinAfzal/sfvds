@@ -1,0 +1,34 @@
+Committed: test.txt
+SFVDS CLI
+Usage:
+  sfvds commit <file>
+  sfvds log
+  sfvds rollback <file> <timestamp>
+Sat Apr 25 01:31:38 PM +04 2026 | BACKUP | test.txt | 1777109498
+Sat Apr 25 01:32:29 PM +04 2026 | BACKUP | /home/batman/sfvds/test.txt | 1777109549
+Sat Apr 25 01:34:37 PM +04 2026 | BACKUP | /home/batman/sfvds/test.txt | 1777109677
+Sat Apr 25 01:37:32 PM +04 2026 | BACKUP | test.txt | 1777109852
+Sat Apr 25 01:39:32 PM +04 2026 | BACKUP | test.txt | 1777109972
+Sat Apr 25 02:02:07 PM +04 2026 | BACKUP | test.txt | 1777111327
+Sat Apr 25 02:02:25 PM +04 2026 | BACKUP | test.txt | 1777111345
+/home/batman/sfvds
+├── data
+├── logs
+│   └── activity.log
+├── output.txt
+├── scripts
+│   ├── auto_backup.sh
+│   ├── has_changed.sh
+│   └── version_file.sh
+├── test.txt
+├── versions
+│   ├── test.txt_1777109498
+│   ├── test.txt_1777109549
+│   ├── test.txt_1777109677
+│   ├── test.txt_1777109852
+│   ├── test.txt_1777109972
+│   ├── test.txt_1777111327
+│   └── test.txt_1777111345
+└── watch.sh
+
+5 directories, 14 files
