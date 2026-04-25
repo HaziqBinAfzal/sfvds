@@ -40,5 +40,6 @@ A Linux shell-based file versioning and monitoring system developed using Bash s
 
 ## Authors
 
-- Your Name
-- Friend Name
+- Haziq Afzal
+- Ruveeha Ashfaq
+- Ambreen Imtiaz
