@@ -46,7 +46,6 @@ A Linux shell-based file versioning and monitoring system developed using Bash s
 ## 📸 Screenshots
 
 ### Project Demo
-
-images/img1.jpeg
-images/img2.jpeg
-images/img3.jpeg
+![Screenshot](images/img1.jpeg)
+![Screenshot](images/img2.jpeg)
+![Screenshot](images/img3.jpeg)
